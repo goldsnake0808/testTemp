@@ -17,6 +17,8 @@ import org.junit.Assert.*
 class ExampleInstrumentedTest {
     @Test
     fun useAppContext() {
+
+
         println("여기는 아닙니다.")
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
