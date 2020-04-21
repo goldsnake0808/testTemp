@@ -51,7 +51,7 @@ class MainActivity : AppCompatActivity() {
         menuInflater.inflate(R.menu.main, menu)
 
         println("onCreate12")
-        println("Menu2222")
+        println("Menu")
 
         return true
     }
