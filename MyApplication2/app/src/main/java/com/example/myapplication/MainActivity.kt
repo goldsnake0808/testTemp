@@ -50,7 +50,7 @@ class MainActivity : AppCompatActivity() {
         // Inflate the menu; this adds items to the action bar if it is present.
         menuInflater.inflate(R.menu.main, menu)
 
-        println("onCreate12")
+        println("onCreate")
         println("Menu")
 
         return true
